@@ -1,7 +1,10 @@
 <script setup lang="ts"></script>
 
 <template>
-  <router-view />
+  <h1>Find Event</h1>
+  <!-- logo / name
+  owner address 
+  event ID  -->
 </template>
 
 <style scoped></style>
